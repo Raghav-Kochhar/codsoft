@@ -1,1 +1,1 @@
-# jupyter notebooks for my codsoft machine learning intership
+jupyter notebooks for my codsoft machine learning internship
